@@ -1,4 +1,4 @@
 - 👋 Welcome to my GitHub profile! Here you'll find repositories containing my projects, contributions, and various experiments. Feel free to explore and collaborate!
 - 👀 I'm currently an IT Specialist passionate about coding. My journey in the world of coding began last year, when I thought I should give it a chance. Since then, I've been exploring different technologies and building exciting projects.
-- 🌱 I’m currently learning for a Junior DevOps role 
+- 🌱 I'm learning on my own, without a university degree, and I'm aiming for a role as a devops engineer. The main reason why I created the Github account is to show to everyone my progress and to prove that you can be anything you want as long as you put in the effort.
 - 📫 You can reach out to me via email at robertcristian12@yahoo.com or feel free to connect with me on LinkedIn: www.linkedin.com/in/pandele-robert-56484316a
