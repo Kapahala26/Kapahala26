@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hello, World! I'm Robert, an IT enthusiast with a passion for quality assurance and software testing. Currently on a journey to become a successful QA Engineer, I love exploring test automation, bug hunting, and ensuring that software works flawlessly.
 
-<!--
-**Kapahala26/Kapahala26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack & Interests:
 
-Here are some ideas to get you started:
+    🔹 Automation Testing (Selenium, Playwright, Cypress)
+    🔹 Manual Testing & QA Methodologies
+    🔹 Python, Java, JavaScript for Test Automation
+    🔹 API Testing (Postman, RestAssured)
+    🔹 CI/CD, Test Reporting & Agile Processes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m Working On:
+
+    Building and refining automation test scripts
+    Learning performance & security testing
+    Contributing to open-source QA project
+    
+
+🔍 Quality is never an accident; it is always the result of intelligent effort. – John Ruskin
