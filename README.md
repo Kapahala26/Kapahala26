@@ -7,12 +7,6 @@
     🔹 Python, Java, JavaScript for Test Automation
     🔹 API Testing (Postman, RestAssured)
     🔹 CI/CD, Test Reporting & Agile Processes
-
-🚀 What I’m Working On:
-
-    Building and refining automation test scripts
-    Learning performance & security testing
-    Contributing to open-source QA project
     
 
 🔍 Quality is never an accident; it is always the result of intelligent effort. – John Ruskin
